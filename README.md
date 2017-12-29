@@ -1,5 +1,4 @@
-# 15ME.github.io
-<!DOCTYPE html>
+# 乐小梦童鞋，请照着抄，技术证明可以实现！
 <html>
 
 <head>
