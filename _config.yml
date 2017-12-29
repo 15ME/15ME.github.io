@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:      pygments
+
+#
+encoding:         "utf-8"
+# Permalinks
+#permalink:        pretty
+
+# Setup
+#title:            15ME
+#tagline:          '修和无人见，存心有天知'
+#description:      'Just for fun !'
+#url:              http://imisme.com
+
+author:
+  name:           'ISME'
+  url:            https://github.com/15ME
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+# duoshuo
+comments :
+    provider : 
+#    duoshuo :
+#     short_name : isme
